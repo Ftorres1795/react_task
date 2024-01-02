@@ -1,0 +1,24 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Test for Navbar component > should match snapshot 1`] = `
+<div>
+  <header
+    class="navbar bg-success text-white"
+  >
+    <nav
+      class="d-flex"
+    >
+      <span
+        class="header-text fs-3"
+      >
+        Task List
+      </span>
+      <sub
+        class="sub-header-text"
+      >
+        Rest API
+      </sub>
+    </nav>
+  </header>
+</div>
+`;
